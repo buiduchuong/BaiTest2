@@ -1,0 +1,3 @@
+- Chỉ có 4 button đầu hoạt động.
+- Hai button đầu load dữ liệu từ databasse
+- Hai button sau dữ liệu có sẵn
